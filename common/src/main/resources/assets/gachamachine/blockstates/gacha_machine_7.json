@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=north,half=lower": {
+            "model": "gachamachine:block/gacha_machine_7_lower"
+        },
+        "facing=east,half=lower": {
+            "model": "gachamachine:block/gacha_machine_7_lower",
+            "y": 90
+        },
+        "facing=south,half=lower": {
+            "model": "gachamachine:block/gacha_machine_7_lower",
+            "y": 180
+        },
+        "facing=west,half=lower": {
+            "model": "gachamachine:block/gacha_machine_7_lower",
+            "y": 270
+        },
+        "facing=north,half=upper": {
+            "model": "gachamachine:block/gacha_machine_7_upper"
+        },
+        "facing=east,half=upper": {
+            "model": "gachamachine:block/gacha_machine_7_upper",
+            "y": 90
+        },
+        "facing=south,half=upper": {
+            "model": "gachamachine:block/gacha_machine_7_upper",
+            "y": 180
+        },
+        "facing=west,half=upper": {
+            "model": "gachamachine:block/gacha_machine_7_upper",
+            "y": 270
+        }
+    }
+}

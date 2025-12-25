@@ -1,6 +1,7 @@
 plugins {
     id 'multiloader-common'
     id 'net.neoforged.moddev'
+    id 'org.jetbrains.kotlin.jvm' version '2.0.21'
 }
 
 neoForge {
@@ -16,11 +17,19 @@ neoForge {
     }
 }
 
+repositories {
+    mavenCentral()
+}
+
 dependencies {
     compileOnly group: 'org.spongepowered', name: 'mixin', version: '0.8.5'
     // fabric and neoforge both bundle mixinextras, so it is safe to use it in common
     compileOnly group: 'io.github.llamalad7', name: 'mixinextras-common', version: '0.3.5'
     annotationProcessor group: 'io.github.llamalad7', name: 'mixinextras-common', version: '0.3.5'
+    compileOnly "org.jetbrains.kotlin:kotlin-stdlib:2.0.21"
+    implementation "curse.maven:cobblemon-687131:7273151"
+    implementation "curse.maven:geckolib-388172:7023453"
+    implementation "curse.maven:kotlin-for-forge-351264:6994056"
 }
 
 configurations {

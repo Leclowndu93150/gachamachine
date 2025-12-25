@@ -1,0 +1,28 @@
+{
+  "spawns": [
+    {
+      "species": "pikachu",
+      "bucket": "common",
+      "weight": 10,
+      "minLevel": 5,
+      "maxLevel": 12
+    },
+    {
+      "species": "raichu",
+      "bucket": "uncommon",
+      "weight": 5,
+      "minLevel": 20,
+      "maxLevel": 35
+    },
+    {
+      "species": "mewtwo",
+      "bucket": "common",
+      "weight": 20,
+      "minLevel": 70,
+      "maxLevel": 80,
+      "biomes": [
+        "minecraft:plains"
+      ]
+    }
+  ]
+}

@@ -8,15 +8,18 @@
         "${mod_author}"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "homepage": "https://curseforge.com/minecraft/mc-mods/bloos-gacha-machine",
+        "sources": "https://github.com/hisRoyalty/gachamachine"
     },
     "license": "${license}",
     "icon": "${mod_id}.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+            "com.hisroyalty.gachamachine.GachaMachineFabric"
+        ],
+        "client": [
+            "com.hisroyalty.gachamachine.client.GachaMachineClientFabric"
         ]
     },
     "mixins": [
@@ -28,9 +31,5 @@
         "fabric-api": "*",
         "minecraft": "${minecraft_version}",
         "java": ">=${java_version}"
-    },
-    "suggests": {
-        "another-mod": "*"
     }
 }
-  

@@ -1,0 +1,66 @@
+{
+    "type": "gachamachine:gacha_machine_3",
+    "pools": [
+        {
+            "conditions": [],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a1",
+                    "weight": 45
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a3",
+                    "weight": 25
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a4",
+                    "weight": 15
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a9",
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a10",
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a2",
+                    "weight": 0
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a5",
+                    "weight": 0
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a6",
+                    "weight": 0
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a7",
+                    "weight": 0
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gachamachine:capsule_a8",
+                    "weight": 0
+                }
+            ],
+            "bonus_rolls": 0,
+            "rolls": 1
+        }
+    ]
+}
+
+
+
+

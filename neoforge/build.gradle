@@ -1,6 +1,7 @@
 plugins {
     id 'multiloader-loader'
     id 'net.neoforged.moddev'
+    id 'org.jetbrains.kotlin.jvm' version '2.0.21'
 }
 
 neoForge {
@@ -42,3 +43,9 @@ neoForge {
 }
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
+
+dependencies {
+    implementation "curse.maven:cobblemon-687131:7273151"
+    implementation "curse.maven:geckolib-388172:7023453"
+    implementation "curse.maven:kotlin-for-forge-351264:6994056"
+}

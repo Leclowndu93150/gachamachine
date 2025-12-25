@@ -1,0 +1,16 @@
+{
+"type": "minecraft:block",
+"pools": [
+{
+"bonus_rolls": 0.0,
+"entries": [
+{
+"type": "minecraft:item",
+"name": "gachamachine:gacha_machine_7"
+}
+],
+"rolls": 1.0
+}
+],
+"random_sequence": "gachamachine:blocks/gacha_machine_7"
+}

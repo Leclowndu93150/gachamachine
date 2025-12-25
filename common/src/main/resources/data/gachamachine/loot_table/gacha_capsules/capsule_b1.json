@@ -1,0 +1,1731 @@
+{
+  "type": "gachamachine:capsule",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+            "type": "minecraft:item",
+            "name": "cobblemon:adamant_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:antidote",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:aspear_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:assault_vest",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:awakening",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:azure_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:babiri_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:berry_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_belt",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_glasses",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_sludge",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:black_tumblestone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blue_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:blue_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:bluk_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:bold_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:brave_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:bright_powder",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:burn_heal",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:bygone_sherd",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:calm_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:capture_sherd",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:careful_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:charcoal_stick",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:charti_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cheri_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:chesto_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:chilan_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:choice_band",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:choice_scarf",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:choice_specs",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:chople_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:citrine_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:cleanse_tag",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:clever_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:clover_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:coba_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:colbur_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dawn_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dome_sherd",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dragon_fang",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:dusk_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:everstone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:exp_candy_s",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:exp_candy_xs",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:expert_belt",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:fairy_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:fire_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:float_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:flower_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:focus_band",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:focus_sash",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:full_heal",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:genius_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:gentle_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:green_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:green_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:haban_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:hard_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:hasty_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heal_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heal_powder",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:health_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heat_rock",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:heavy_duty_boots",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:helix_sherd",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ice_heal",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ice_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:icy_rock",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:impish_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:iron_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:kasib_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:kebia_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:leaf_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:leftovers",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:life_orb",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:light_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:light_clay",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:lonely_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:love_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:magnet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:metal_coat",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:metal_powder",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:metronome",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mild_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:miracle_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mirror_herb",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mirror_herb",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:modest_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:moon_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:muscle_band",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:muscle_band",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:muscle_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:mystic_water",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:naive_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:nanab_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:naughty_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:never_melt_ice",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:nostalgic_sherd",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:occa_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:oran_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:paralyze_heal",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:passho_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:payapa_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pecha_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:persim_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pink_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:pink_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:poison_barb",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:poke_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:potion",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:premier_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:quick_claw",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:quick_powder",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rash_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rawst_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:razz_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:red_card",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:relaxed_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:remedy",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:resist_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ribbon_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rindo_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:ring_target",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:rocky_helmet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:roseate_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:roseli_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sassy_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:serious_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sharp_beak",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:shiny_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:shuca_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:silk_scarf",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:silver_powder",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sky_tumblestone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:slate_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:smoke_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:smooth_rock",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:soft_sand",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:spell_tag",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:star_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sticky_barb",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:strawberry_sweet",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:sun_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:suspicious_sherd",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:swift_feather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:tanga_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:thunder_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:timid_mint",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:tumblestone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:twisted_spoon",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:verdant_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:wacan_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:water_stone",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:wepear_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:white_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:white_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:wide_lens",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:wise_glasses",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:x_accuracy",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:x_attack",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:x_defence",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:x_special_attack",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:x_special_defence",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:x_speed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:yache_berry",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:yellow_apricorn",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 10
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemon:yellow_apricorn_seed",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 5
+              }
+            ]
+          }
+        ]
+    }
+  ],
+  "random_sequences": "gachamachine:gacha_capsules"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "gachamachine:capsule",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+            "type": "minecraft:item",
+            "name": "cobblemon:poke_ball",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          }
+        ]
+    }
+  ],
+  "random_sequences": "gachamachine:gacha_capsules"
+}
